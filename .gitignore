@@ -1,0 +1,7 @@
+references/
+output/
+.agents/
+.skill-deps/
+tools/
+*.tmp
+__pycache__/

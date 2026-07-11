@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 桌宠生成器"
+  short_description: "从角色参考图生成、校验并安装完整的 Codex 任务宠物图集"
+  default_prompt: "Use $build-codex-task-pet to turn my character references into a validated Codex task pet."
