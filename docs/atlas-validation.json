@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "file": "D:\\ace-taffy\\output\\ace-taffy-codex-pet\\tang-smile-candidate\\spritesheet-tang-smile-candidate.webp",
+  "file": "D:\\ace-taffy\\output\\ace-taffy-codex-pet\\tang-cry-candidate\\spritesheet-tang-cry-v3.webp",
   "format": "WEBP",
   "mode": "RGBA",
   "columns": 8,
@@ -377,7 +377,7 @@
       "row": 5,
       "column": 0,
       "used": true,
-      "nontransparent_pixels": 17737,
+      "nontransparent_pixels": 17129,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -386,7 +386,7 @@
       "row": 5,
       "column": 1,
       "used": true,
-      "nontransparent_pixels": 17576,
+      "nontransparent_pixels": 16772,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -395,7 +395,7 @@
       "row": 5,
       "column": 2,
       "used": true,
-      "nontransparent_pixels": 18576,
+      "nontransparent_pixels": 16746,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -404,7 +404,7 @@
       "row": 5,
       "column": 3,
       "used": true,
-      "nontransparent_pixels": 19005,
+      "nontransparent_pixels": 15911,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -413,7 +413,7 @@
       "row": 5,
       "column": 4,
       "used": true,
-      "nontransparent_pixels": 19108,
+      "nontransparent_pixels": 14171,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -422,7 +422,7 @@
       "row": 5,
       "column": 5,
       "used": true,
-      "nontransparent_pixels": 18764,
+      "nontransparent_pixels": 14036,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -431,7 +431,7 @@
       "row": 5,
       "column": 6,
       "used": true,
-      "nontransparent_pixels": 18861,
+      "nontransparent_pixels": 16623,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
@@ -440,7 +440,7 @@
       "row": 5,
       "column": 7,
       "used": true,
-      "nontransparent_pixels": 17842,
+      "nontransparent_pixels": 16839,
       "opaque_chroma_key_pixels": 0,
       "chroma_fringe_pixels": 0
     },
